@@ -1,0 +1,2 @@
+# Put the folder paths you want to open here.
+E:\Desktop
